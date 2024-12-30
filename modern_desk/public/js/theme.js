@@ -17,14 +17,14 @@ frappe.ui.ThemeSwitcher = class CustomThemeSwitcher extends frappe.ui.ThemeSwitc
 					info: "Default Dark Theme",
 				},
 				{
-					name: "modern_ui_theme",
-					label: "Modern Desk UI",
-					info: "The theme by Anant Pranali"
+					name: "modern_ui_red",
+					label: "Modern Red UI",
+					info: "Red theme by Anant Pranali"
 				},
 				{
 					name: "modern_ui_blue",
 					label: "Modern Blue UI",
-					info: "The theme by Anant Pranali"
+					info: "Blue theme by Anant Pranali"
 				},
 				{
 					name: "automatic",
