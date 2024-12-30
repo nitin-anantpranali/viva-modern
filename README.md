@@ -7,7 +7,7 @@ use the following commands to install this app
 First get it from this repo
 
 ```
-bench get-app modern_desk https://github.com/pratheeshrussell/frappe-modern-desk
+bench get-app modern_desk https://github.com/nitin-anantpranali/viva-modern
 ```
 add to your site
 ```

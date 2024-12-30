@@ -1,8 +1,8 @@
 app_name = "modern_desk"
 app_title = "Modern Desk"
-app_publisher = "Pratheesh Russell"
+app_publisher = "Anant Pranali Pvt Ltd"
 app_description = "A modern UI for frappe desk"
-app_email = "pratheeshrussell@gmail.com"
+app_email = "contact@AnantPranali.com"
 app_license = "mit"
 # required_apps = []
 
@@ -11,6 +11,7 @@ app_license = "mit"
 
 # include js, css files in header of desk.html
 app_include_css =  ["/assets/modern_desk/css/theme.css",]
+app_include_css =  ["/assets/modern_desk/css/blue.css",]
 app_include_js = ["/assets/modern_desk/js/theme.js",]
 
 # include js, css files in header of web template

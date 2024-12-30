@@ -9,17 +9,22 @@ frappe.ui.ThemeSwitcher = class CustomThemeSwitcher extends frappe.ui.ThemeSwitc
 				{
 					name: "light",
 					label: ("Frappe Light"),
-					info: ("Light Theme"),
+					info: ("Default Light Theme"),
 				},
 				{
 					name: "dark",
 					label: "Timeless Night",
-					info: "Dark Theme",
+					info: "Default Dark Theme",
 				},
 				{
 					name: "modern_ui_theme",
 					label: "Modern Desk UI",
-					info: "The theme I copied from github"
+					info: "The theme by Anant Pranali"
+				},
+				{
+					name: "modern_ui_blue",
+					label: "Modern Blue UI",
+					info: "The theme by Anant Pranali"
 				},
 				{
 					name: "automatic",
